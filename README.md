@@ -9,7 +9,7 @@
 - 📫 How to reach me: ...[Instagram]
 - ⚡ Fun fact: I love to draw cartoons or comady sketch.
 
-
+<img align="left" alt="sonumahajan's Github Stats" src="https://github-readme-stats.sonumahajan.vercel.app/api?username=sonumahajan&show_icons=true&hide_border=true" />
 
 [Website]: https://github.com/sonumahajan
 [Twitter]: https://twitter.com/the_sonu_0 
