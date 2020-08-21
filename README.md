@@ -16,11 +16,11 @@
 
 ---
 
-[![Sonu's github stats](https://github-readme-stats.vercel.app/api?username=sonumahajan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sonu's github stats](github-readme-stats.sonumahajan.vercel.app/api?username=sonumahajan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonumahajan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats.sonumahajan.vercel.app/api/top-langs/?username=sonumahajan&layout=compact)](https://github.com/sonumahajan/github-readme-stats)
 
 
 [Website]: https://github.com/sonumahajan
