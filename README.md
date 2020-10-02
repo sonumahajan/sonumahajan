@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to any Open Source project.
-- 🤔 I’m looking for help with ... Pygame
+- 🤔 I’m looking for help with ... Kivy, KivyMD
 - 📫 How to reach me: ...
     - [Instagram]
     - [Twitter]
