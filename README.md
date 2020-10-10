@@ -1,7 +1,7 @@
 ### Hi there, I'm Sonu - aka [sonumahajan][website] 👋
 
 ## I'm a Student, Developer, and Curious!
-- 🔭 I’m currently working on a [Hosting Website]!
+- 🔭 I’m currently working on a [Android/IOS Application]!
 - 🌱 I’m currently learning Python🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to any Open Source project.
@@ -44,5 +44,6 @@
 [Instagram]: https://www.instagram.com/the_sonu_0
 [github]: https://github.com/sonumahajan?tab=repositories
 [Linkedin]: https://www.linkedin.com/in/sonu-kumar-901881192
+[Android/IOS Application]: https://github.com/sonumahajan/study-material-app
 [Hosting Website]: http://sonumahajan.github.io/
 
