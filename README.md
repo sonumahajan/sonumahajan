@@ -7,9 +7,10 @@
 - 🥅 2020 Goals: Contribute to any Open Source project.
 - 🤔 I’m looking for help with ... Kivy, KivyMD
 - 📫 How to reach me: ...
-    - [Instagram]
-    - [Twitter]
+    - [Portfolio]
     - [Linkedin]
+    - [Twitter]
+    - [Instagram]
 - ⚡ Fun fact: I love to draw cartoons or comady sketch.
 
 <br />
@@ -40,6 +41,7 @@
 
 
 [Website]: https://github.com/sonumahajan
+[Portfolio]: https://sonumahajan.github.io/
 [Twitter]: https://twitter.com/the_sonu_0 
 [Instagram]: https://www.instagram.com/the_sonu_0
 [github]: https://github.com/sonumahajan?tab=repositories
