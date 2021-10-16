@@ -11,7 +11,7 @@
     - [Linkedin]
     - [Twitter]
     - [Instagram]
-- ⚡ Fun fact: I love to draw cartoons or comady sketch.
+- ⚡ Fun fact: I love to draw cartoons and comady sketch.
 
 <br />
 
