@@ -1,11 +1,11 @@
 ### Hi there, I'm Sonu - aka [sonumahajan][website] 👋
 
-## I'm a Student, Developer, and Curious!
+## I'm a Student & Developer.
 - 🔭 I’m currently working on a [Android/IOS Application]!
 - 🌱 I’m currently learning Python🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to any Open Source project.
-- 🤔 I’m looking for help with ... Kivy, KivyMD
+- 🤔 I’m looking for help with ... Kivy, KivyMD, Bug Hunting
 - 📫 How to reach me: ...
     - [Portfolio]
     - [Linkedin]
