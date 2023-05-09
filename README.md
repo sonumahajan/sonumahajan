@@ -5,8 +5,8 @@
 ## I'm a Student & Developer.
 - 🔭 I’m currently working on a [Android/IOS Application]!
 - 🌱 I’m currently learning Advance Python.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute in more Open Source project.
+- 👯 I’m looking to collaborate with other talented developers.
+- 🥅 2023 Goals: Contribute in more Open Source project.
 - 🤔 I’m looking for help with ... Kivy, KivyMD, Bug Hunting
 - 📫 How to reach me: ...
     - [Portfolio]
