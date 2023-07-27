@@ -4,7 +4,7 @@
 
 ## I'm a Student & Developer.
 - 🔭 I’m currently working on a [Android/IOS Application]!
-- 🌱 I’m currently learning Advance Python.
+- 🌱 I’m currently learning Data Analytics.
 - 👯 I’m looking to collaborate with other talented developers.
 - 🥅 2023 Goals: Contribute in more Open Source project.
 - 🤔 I’m looking for help with ... django, Bug Hunting
