@@ -3,12 +3,13 @@
 > “Talk is cheap. Show me the code.” - Linus Torvalds
 ---
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 ## 👨‍💻 About Me  
-- 💼 Full-Stack Developer, specializing in **Python, Django, SAP PI/PO & REST APIs**  
-- ⚙️ Experienced in **enterprise integrations, automation & ERP-HCM systems**  
-- 📊 Built solutions impacting **17,000+ employees** & **18,000+ IT assets**  
-- 🌱 Learning **real-time analytics & scalable architectures**  
-- 🤝 Open-source contributor & collaboration enthusiast  
+- 💼 Full-Stack Developer, specializing in **Python, Django, SAP PI/PO & REST APIs**
+- ⚙️ Experienced in **enterprise integrations, automation & ERP-HCM systems**
+- 📊 Built solutions impacting **17,000+ employees** & **18,000+ IT assets**
+- 🌱 Learning **real-time analytics & scalable architectures**
+- 🤝 Open-source contributor & collaboration enthusiast
 - 🎨 Fun fact: I sketch cartoons & comedy when I’m not coding  
 ---
 
