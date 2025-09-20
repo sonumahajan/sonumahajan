@@ -6,16 +6,13 @@
 > “Talk is cheap. Show me the code.” - Linus Torvalds
 
 ---
-
 ## 👨‍💻 About Me  
-- 🔭 Currently working as a **Full-Stack Developer**  
-- ⚙️ Specializing in **Python, Django, SAP PI/PO, REST APIs, and ERP-HCM integrations**  
-- 📊 Built solutions impacting **17,000+ employees** & managing **18,000+ IT assets**  
-- 🌱 Currently learning **real-time analytics, automation, and scalable architectures**  
-- 🤝 Open to collaborating on **enterprise integrations, open-source projects & developer tools**  
-- 🎯 Goal for 2025: Build & contribute to **automation + open-source communities**  
-- ⚡ Fun fact: I love sketching cartoons & comedy sketches when I’m not coding 🎨  
-
+- 💼 Full-Stack Developer, specializing in **Python, Django, SAP PI/PO & REST APIs**  
+- ⚙️ Experienced in **enterprise integrations, automation & ERP-HCM systems**  
+- 📊 Built solutions impacting **17,000+ employees** & **18,000+ IT assets**  
+- 🌱 Learning **real-time analytics & scalable architectures**  
+- 🤝 Open-source contributor & collaboration enthusiast  
+- 🎨 Fun fact: I sketch cartoons & comedy when I’m not coding  
 ---
 
 ## 🛠️ Tech Stack
